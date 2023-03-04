@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1 align="center">Olá <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Eu sou o Lucas! </h1>
+<h1 align="center">Olá, Eu sou o Lucas! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
   
 <h4 align="center">Sou um desenvolvedor freelancer e também um estudante de engenharia na Universidade Filadélfia em Londrina
 </div>
