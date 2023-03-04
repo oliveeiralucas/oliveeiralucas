@@ -1,3 +1,5 @@
+<!-- Já revisei essa parte -->
+
 <div align="center">
   
 <h1 align="center">Olá, Eu sou o Lucas! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
@@ -12,6 +14,8 @@
 </div>
 
 -----
+  
+  <!-- Já revisei essa parte -->
 <details>
   <summary>☎️ Meus contatos </summary>
 <div>
@@ -112,15 +116,18 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"></a>
+<br>
+    
   </samp>
   </details>
   
+  
+<!-- Já revisei essa parte -->
 <details>
   <summary>🌏 Global</summary>
   <br/>
-      <p> Ainda estou pensando em algo legal para colocar aqui....<p>
+      <p> "Programação é a arte de criar soluções para problemas que ainda não existem." - John Carmack. <p>
   </div>
 </details> 
 <br/>
