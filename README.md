@@ -65,14 +65,11 @@
         </a>
       </p>
 
-
-
 <p align="center">
    <a href="https://www.codefactor.io/repository/github/oliveeiralucas"><img align="center"
      src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
      alt="CodeFactor" /></a>
 </p>
-
 
       <p align="center">
         <a href="github.com/oliveeiralucas" target="_blank">
@@ -113,6 +110,7 @@
         </p>
 </details>
     <details open>
+      
   <summary><h3>Estatísticas</h3></summary>
         <p align="center">
           <a href="https://github.com/oliveeiralucas/">
