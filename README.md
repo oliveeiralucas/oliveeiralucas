@@ -6,7 +6,7 @@
   
 <h1 align="center">Olá, Eu sou o Lucas! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
   
-<h4 align="center">Sou um desenvolvedor freelancer e também um estudante de engenharia na Universidade Filadélfia em Londrina
+<h4 align="center">Sou um futuro desenvolvedor e estudante de engenharia de software na UniFil em Londrina.
 </div>
 
 <div align="center">
