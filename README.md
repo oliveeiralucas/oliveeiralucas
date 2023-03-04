@@ -54,7 +54,7 @@
     </samp>
 
       <p align="center">
-        <a href="github.com/oliveeiralucas" target="_blank">
+        <a href="https://github.com/oliveeiralucas" target="_blank">
           <img align="center" src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
         </a>
       </p>
@@ -68,7 +68,7 @@
 
 
       <p align="center">
-        <a href="github.com/oliveeiralucas" target="_blank">
+        <a href="https://github.com/oliveeiralucas" target="_blank">
           <img align="center" src="https://img.shields.io/github/license/oliveeiralucas/oliveeiralucas?color=purple&style=for-the-badge" height="25" alt="license">
         </a>
 </p>
