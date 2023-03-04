@@ -80,7 +80,7 @@
       </p>
     </samp>
   </div>
-</details>
+</details> 
 
   
 <details> 
