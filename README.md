@@ -73,11 +73,6 @@
      alt="CodeFactor" /></a>
   </p>
     
-   <p align="center">
-  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
-     src="https://github.com/oliveeiralucas/oliveeiralucas/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
   
  <p align="center">
   <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
