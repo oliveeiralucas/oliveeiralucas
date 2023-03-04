@@ -59,16 +59,11 @@
         </a>
       </p>
 
-      <p align="center">
-        <a href="https://oliveeiralucas.github.io/oliveeiralucas">
-          <img align="center" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2Foliveeiralucas%2F" height="25" alt="website">
-        </a>
-      </p>
-
 
 <p align="center">
    <a href="https://www.codefactor.io/repository/github/oliveeiralucas"><img align="center">
-    <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor"></a>
+    <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor">
+</a>
 </p>
 
 
