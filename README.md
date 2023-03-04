@@ -21,12 +21,15 @@
       <br/>
       <a href="https://www.linkedin.com/in/lucaswaidmandeoliveira/" target="blank"><img align="center"                                                                          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="linkedin lucas" height="30"/></a>
-      
-      <a href="[https://fb.com/lucasoliveira](https://www.facebook.com/profile.php?id=100016063424524)" target="blank"><img align="center"
+    </p>
+    
+    <p align="center">
+      <a href="https://www.facebook.com/profile.php?id=100016063424524" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="facebook lucas" height="30"/></a>
+    </p> 
       
-      
+     <p align="center">
       <a href="mailto:lucas.oliveira@edu.unifil.br" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="email lucas" height="30"/></a>
@@ -36,7 +39,9 @@
       <a href="https://instagram.com/oliveeiralucas" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="Instagram lucas" height="30"/></a>
+    </p>
     
+    <p align="center">
       <a href="https://wa.me/+554394133173" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="whatsapp lucas oliveira" height="30"/></a>
@@ -128,7 +133,7 @@
 <details>
   <summary>🌏 Global</summary>
   <br/>
-      <p> Ainda estou pensando em algo legal para colocar aqui <p>
+      <p> Ainda estou pensando em algo legal para colocar aqui....<p>
   </div>
 </details> 
 <br/>
