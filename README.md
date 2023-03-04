@@ -46,43 +46,39 @@
 
   <!-- Já revisei essa parte -->
   
+
 <details>
-  <summary> 🧮 Sobre</summary>
-  <div>
-    <samp>
-      <h2 align="center">Sobre essa Conta</h2>
-    </samp>
-
-      <p align="center">
-        <a href="https://github.com/oliveeiralucas" target="_blank">
-          <img align="center" src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
-        </a>
-      </p>
-
-
-<p align="center">
-   <a href="https://www.codefactor.io/repository/github/oliveeiralucas"><img align="center">
-    <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor">
-</a>
-</p>
-
-
-      <p align="center">
-        <a href="https://github.com/oliveeiralucas" target="_blank">
-          <img align="center" src="https://img.shields.io/github/license/oliveeiralucas/oliveeiralucas?color=purple&style=for-the-badge" height="25" alt="license">
-        </a>
-</p>
-
-
+  <summary>🧮 Sobre </summary>
+<div>
+<samp>
+<h2 align="center">Informações da Conta</h2>
  <p align="center">
-        <a href="github.com/oliveeiralucas">
-          <img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25">
-        </a>
-      </p>
-  
-
-  </div>
-</details> 
+  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://oliveeiralucas.github.io/oliveeiralucas/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Foliveeiralucas.github.io%2Foliveeiralucas%2F" height="25"
+     alt="website" /></a>
+  </p>
+  <p align="center">
+  <a href="https://www.codefactor.io/repository/github/oliveeiralucas/web-site"><img align="center"
+     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
+     alt="CodeFactor" /></a>
+  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
+     src="https://github.com/oliveeiralucas/oliveeiralucas/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+     alt="page built"/></a>
+  </p>
+ <p align="center">
+  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
+     src="https://img.shields.io/github/license/oliveeiralucas/oliveeiralucas?color=purple&style=for-the-badge" height="25"
+     alt="lisense" /></a>
+  <a href="github.com/oliveeiralucas"><img align="center"
+     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
+     alt="work on my machine" /></a>
+ </p>
+ </samp>
+</div>
+</details>
 
   
 <details> 
