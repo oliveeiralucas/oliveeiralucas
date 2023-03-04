@@ -126,9 +126,8 @@
   </details>
   
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 Global</summary>
   <br/>
-  <details open>
       <p> Ainda estou pensando em algo legal para colocar aqui <p>
   </div>
 </details> 
