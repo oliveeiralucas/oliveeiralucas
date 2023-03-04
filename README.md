@@ -1,5 +1,7 @@
 <!-- Já revisei essa parte -->
-
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 <div align="center">
   
 <h1 align="center">Olá, Eu sou o Lucas! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
