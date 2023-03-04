@@ -53,14 +53,14 @@
   <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-   
+  </p>
    
    
     <p align="center">
   <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
      src="![GitHub watchers](https://img.shields.io/github/watchers/oliveeiralucas/oliveeiralucas?style=for-the-badge)" height="25"
      alt="views count" /></a>
-   
+   </p>
    
    
    
