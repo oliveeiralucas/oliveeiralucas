@@ -60,11 +60,6 @@
      alt="views count" /></a>
   </p> 
      
-   <p align="center">
-  <a href="https://oliveeiralucas.github.io/oliveeiralucas/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Foliveeiralucas.github.io%2Foliveeiralucas%2F" height="25"
-     alt="website" /></a>
-       </p>
   
   
   <p align="center">
@@ -131,6 +126,11 @@
   <summary>🌏 Global</summary>
   <br/>
       <p> "Programação é a arte de criar soluções para problemas que ainda não existem." - John Carmack. <p>
+  
+  ## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oliveeiralucasb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+  
+  
   </div>
 </details> 
 <br/>
