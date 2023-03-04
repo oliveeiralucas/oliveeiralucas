@@ -47,11 +47,11 @@
   <!-- Já revisei essa parte -->
   
 <details>
-  <summary>🧮 Sobre</summary>
+  <summary> 🧮 Sobre</summary>
   <div>
     <samp>
       <h2 align="center">Sobre essa Conta</h2>
-
+    </samp>
 
       <p align="center">
         <a href="github.com/oliveeiralucas" target="_blank">
@@ -65,11 +65,12 @@
         </a>
       </p>
 
+
 <p align="center">
-   <a href="https://www.codefactor.io/repository/github/oliveeiralucas"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
+   <a href="https://www.codefactor.io/repository/github/oliveeiralucas"><img align="center">
+    <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor"></a>
 </p>
+
 
       <p align="center">
         <a href="github.com/oliveeiralucas" target="_blank">
@@ -77,12 +78,14 @@
         </a>
 </p>
 
+
  <p align="center">
         <a href="github.com/oliveeiralucas">
-          <img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25" alt="works on my machine">
+          <img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25">
         </a>
       </p>
-    </samp>
+  
+
   </div>
 </details> 
 
