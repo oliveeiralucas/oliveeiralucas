@@ -44,72 +44,73 @@
 </div>
 </details>
 
+  <!-- Já revisei essa parte -->
+  
 <details>
   <summary>🧮 Sobre</summary>
-<div>
-<samp>
-<h2 align="center"> Sobre essa Conta</h2>
- <p align="center">
-  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  </p>
-   
-   
-  <a href="https://oliveeiralucas.github.io/oliveeiralucas/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2Foliveeiralucas%2F" height="25"
-     alt="website" /></a>
-  </p>
-  
-  
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/oliveeiralucas/oliveeiralucas/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/oliveeiralucas/oliveeiralucas/badge/main" height="25"
-     alt="CodeFactor" /></a>
-    
-  </p>
-  
- <p align="center">
-  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/oliveeiralucas/oliveeiralucas?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-   
-  <a href="github.com/oliveeiralucas"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
+  <div>
+    <samp>
+      <h2 align="center">Sobre essa Conta</h2>
+      <p align="center">
+        <a href="github.com/oliveeiralucas" target="_blank">
+          <img align="center" src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" />
+        </a>
+      </p>
+
+      <p align="center">
+        <a href="https://oliveeiralucas.github.io/oliveeiralucas/">
+          <img align="center" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2Foliveeiralucas%2F" height="25" alt="website" />
+        </a>
+      </p>
+
+      <p align="center">
+        <a href="https://www.codefactor.io/repository/github/oliveeiralucas/oliveeiralucas/overview/main">
+          <img align="center" src="https://www.codefactor.io/repository/github/oliveeiralucas/oliveeiralucas/badge/main" height="25" alt="CodeFactor" />
+        </a>
+      </p>
+
+      <p align="center">
+        <a href="github.com/oliveeiralucas" target="_blank">
+          <img align="center" src="https://img.shields.io/github/license/oliveeiralucas/oliveeiralucas?color=purple&style=for-the-badge" height="25" alt="license" />
+        </a>
+
+        <a href="github.com/oliveeiralucas">
+          <img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25" alt="works on my machine" />
+        </a>
+      </p>
+    </samp>
+  </div>
 </details>
+
   
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 Sobre esse Perfil </summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
+    <h2 align="center"> Status do Github </h2>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
+  <summary><h3>Linguagens</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+        <a href="https://github.com/oliveeiralucas/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeiralucas&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1oliveeiralucas: linguagens mais utilizadas" /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          <a href="https://github.com/oliveeiralucas/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveeiralucas&theme=gruvbox&layout=compact&hide_border=true"
+          alt="oliveeiralucas: linguas mais utilizadas por repositorio" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveeiralucas&theme=gruvbox&layout=compact&hide_border=true"
+          alt="oliveeiralucas: linguagens mais utilizadas por commit" />
           </a>
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Estatísticas</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/oliveeiralucas/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveeiralucas&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
