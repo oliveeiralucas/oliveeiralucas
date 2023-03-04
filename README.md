@@ -24,16 +24,16 @@
     </p>
     
     <p align="center">
-      <a href="https://www.facebook.com/profile.php?id=100016063424524" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="facebook lucas" height="30"/></a>
-    </p> 
-      
-     <p align="center">
-      <a href="mailto:lucas.oliveira@edu.unifil.br" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="email lucas" height="30"/></a>
-    </p>
+  <a href="https://www.facebook.com/profile.php?id=100016063424524" target="blank"><img align="center"
+     src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+     alt="facebook lucas" height="30"/></a>
+</p> 
+  
+ <p align="center">
+  <a href="mailto:lucas.oliveira@edu.unifil.br" target="blank"><img align="center"
+     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="email lucas" height="30"/></a>
+ </p>
     
   <p align="center">
       <a href="https://instagram.com/oliveeiralucas" target="blank"><img align="center"
