@@ -71,7 +71,7 @@
   
  <p align="center">
   <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/oliveeiralucas/oliveeiralucas?color=purple&style=for-the-badge" height="25"
+     src="https://img.shields.io/github/license/oliveeiralucas/PontoBiometrico?style=for-the-badge" height="25"
      alt="lisense" /></a>
   </p>
    
