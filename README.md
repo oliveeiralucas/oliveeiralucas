@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="http://www.exemplo.com" onclick="return false;">
+  <a href="https://github.com/oliveeiralucas" onclick="return false;">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake">
     </a>
