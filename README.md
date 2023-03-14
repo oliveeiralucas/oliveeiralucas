@@ -129,7 +129,8 @@
       <p> "Programação é a arte de criar soluções para problemas que ainda não existem." - John Carmack. <p>
   
   ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oliveeiralucasb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+https://github-profile-trophy.vercel.app/?username=oliveeiralucas
+
   
   
   </div>
