@@ -46,8 +46,6 @@
 </details>
 
   <!-- Já revisei essa parte -->
-  
-
 <details>
   <summary>🧮 Sobre </summary>
 <div>
@@ -96,14 +94,14 @@
   <summary><h3>Linguagens</h3></summary>
             <p align="center">
         <a href="https://github.com/oliveeiralucas/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeiralucas&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeiralucas&langs_count=6&theme=radical&layout=compact&hide_border=true"
           alt="1oliveeiralucas: linguagens mais utilizadas" /></a>
       </p>
         <p align="center">
           <a href="https://github.com/oliveeiralucas/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveeiralucas&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveeiralucas&theme=radical&layout=compact&hide_border=true"
           alt="oliveeiralucas: linguas mais utilizadas por repositorio" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveeiralucas&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveeiralucas&theme=radical&layout=compact&hide_border=true"
           alt="oliveeiralucas: linguagens mais utilizadas por commit" />
           </a>
         </p>
@@ -113,8 +111,8 @@
   <summary><h3>Estatísticas</h3></summary>
         <p align="center">
           <a href="https://github.com/oliveeiralucas/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveeiralucas&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&show_icons=true&theme=radical&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveeiralucas&theme=radical&hide_border=true" />
           </a>
        </p>
      <br>
