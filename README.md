@@ -1,4 +1,3 @@
-<!-- Já revisei essa parte -->
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
@@ -10,130 +9,40 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/oliveeiralucas" onclick="return false;">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake">
-    </a>
+  <h1>Certificados Cursos Alura</h1>
+  <p>👉Clique aqui: <a>https://cursos.alura.com.br/user/lucasdragon38/fullCertificate/a50cccefcbb09bf788547e2ff68ff41c</a></p>
 </div>
 
------
-  
-  <!-- Já revisei essa parte -->
-<details>
-  <summary>☎️ Meus contatos </summary>
+<h1>💻 Sobre esse Perfil </summary>
 <div>
-  <samp>
-  <h2 align="center">você pode entrar em contato comigo por:</h2>
-<p align="center">
+  <h2 align="center"> Status do Github </h2>
   <br/>
-  <a href="https://www.linkedin.com/in/lucas-waidman-de-oliveira-25a8ba268/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin lucas" height="30"/></a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100016063424524" target="_blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook lucas" height="30"/></a>
-</p>
-
-<p align="center">
-  <a href="mailto:lucas.oliveira@edu.unifil.br" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email lucas" height="30"/></a>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/oliveeira.lucas" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram lucas" height="30"/></a>
-</p>
-
-  </samp>
-</div>
-</details>
-
-  <!-- Já revisei essa parte -->
-<details>
-  <summary>🧮 Sobre </summary>
-<div>
-<samp>
-<h2 align="center">Informações da Conta</h2>
- <p align="center">
-   
-   <p align="center">
-  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=oliveeiralucas&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  </p> 
-     
-  
-  
+  <h3>Linguagens</h3>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/oliveeiralucas/web-site"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
+    <a href="https://github.com/oliveeiralucas/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeiralucas&langs_count=6&theme=radical&layout=compact&hide_border=true"
+      alt="1oliveeiralucas: linguagens mais utilizadas" /></a>
   </p>
-    
+  <p align="center">
+    <a href="https://github.com/oliveeiralucas/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveeiralucas&theme=radical&layout=compact&hide_border=true"
+    alt="oliveeiralucas: linguas mais utilizadas por repositorio" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveeiralucas&theme=radical&layout=compact&hide_border=true"
+    alt="oliveeiralucas: linguagens mais utilizadas por commit" />
+    </a>
+  </p>
   
- <p align="center">
-  <a href="github.com/oliveeiralucas" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/oliveeiralucas/PontoBiometrico?style=for-the-badge" height="25"
-     alt="lisense" /></a>
+  <h3>Estatísticas</h3>
+  <p align="center">
+    <a href="https://github.com/oliveeiralucas/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveeiralucas&theme=radical&hide_border=true" />
+    </a>
   </p>
-   
-   <p align="center">
-  <a href="github.com/oliveeiralucas"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
+  <br>
+  
+  <p> "Programação é a arte de criar soluções para problemas que ainda não existem." - John Carmack. <p>
+  
+  <h2>🏆GitHub Trophies</h2>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliveeiralucas&theme=discord&margin-w=15&no-bg=true" alt="oliveeiralucas" /></a> </p>
 </div>
-</details>
-
-  
-<details> 
-  <summary>💻 Sobre esse Perfil </summary>
-  <div>
-  <samp>
-    <h2 align="center"> Status do Github </h2>
-      <br/>
-    <details open>
-  <summary><h3>Linguagens</h3></summary>
-            <p align="center">
-        <a href="https://github.com/oliveeiralucas/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeiralucas&langs_count=6&theme=radical&layout=compact&hide_border=true"
-          alt="1oliveeiralucas: linguagens mais utilizadas" /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/oliveeiralucas/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveeiralucas&theme=radical&layout=compact&hide_border=true"
-          alt="oliveeiralucas: linguas mais utilizadas por repositorio" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveeiralucas&theme=radical&layout=compact&hide_border=true"
-          alt="oliveeiralucas: linguagens mais utilizadas por commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-      
-  <summary><h3>Estatísticas</h3></summary>
-        <p align="center">
-          <a href="https://github.com/oliveeiralucas/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&show_icons=true&theme=radical&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveeiralucas&theme=radical&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
-  
-<!-- Já revisei essa parte -->
-<details>
-  <summary>🌏 Global</summary>
-  <br/>
-      <p> "Programação é a arte de criar soluções para problemas que ainda não existem." - John Carmack. <p>
-  
-  ## 🏆GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliveeiralucas&theme=discord&margin-w=15&no-bg=true" alt="oliveeiralucas" /></a> </p>
-
-  
-  
-  </div>
-</details> 
-<br/>
-</details> 
-
------
