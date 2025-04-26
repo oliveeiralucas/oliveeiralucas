@@ -1,67 +1,50 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230" alt="Banner"/>
-</p>
 
-<h1 align="center">
-  Olá, Eu sou o Lucas! <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" width="35" alt="emoji acenando">
-</h1>
+![](https://komarev.com/ghpvc/?username=oliveeiralucas&color=006bed)
 
-<h3 align="center">
-  Futuro desenvolvedor | Estudante de Engenharia de Software @ UniFil - Londrina
-</h3>
+<h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-waidman-de-oliveira-25a8ba268/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.oliveira@edu.unifil.br)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliveeira.lucas)
-  
-</div>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="[link da sua faculdade](https://unifil.br/)">Unifil</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Júnior**</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Tecnologias web e desenvolvimento de jogos**.
 
----
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-## 📜 Certificados Alura
+**Aplicações e Dados**
 
-<div align="center">
-  <a href="https://cursos.alura.com.br/user/lucasdragon38/fullCertificate/a50cccefcbb09bf788547e2ff68ff41c">
-    <img src="https://img.shields.io/badge/Ver_Certificados-2CA5E0?style=for-the-badge&logo=alura&logoColor=white" alt="Certificados Alura"/>
-  </a>
-</div>
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
----
+**Utilidades**
 
-## 🚀 Tecnologias e Estatísticas
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<div align="center">
-  
-  ### 📊 GitHub Stats
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveeiralucas&theme=radical&hide_border=true"/>
-  
-  ### 🗣️ Linguagens Mais Usadas
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeiralucas&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveeiralucas&theme=radical" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveeiralucas&theme=radical" width="49%"/>
-  
-</div>
+**DevOps**
 
----
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## 🏆 Conquistas GitHub
+**Ferramentas de Desenvolvimento**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oliveeiralucas&theme=discord&margin-w=15&no-bg=true" alt="Trophies"/>
-</div>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
----
+<br/>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=oliveeiralucas&style=flat-square&color=blue)
-  
-  <p>✨ "Programação é a arte de criar soluções para problemas que ainda não existem." - John Carmack</p>
-  
-</div>
+<a href="https://github.com/oliveeiralucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveeiralucas&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin](https://img.shields.io/badge/-oliveeiralucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveeiralucas/)](https://www.linkedin.com/in/oliveeiralucas/)
+[![Gmail](https://img.shields.io/badge/-oliveeiralucas.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliveeiralucas.dev@gmail.com)](mailto:oliveeiralucas.dev@gmail.com)
+[![GitHub]( https://img.shields.io/github/followers/oliveeiralucas?label=follow&style=social)](https://github.com/oliveeiralucas)
