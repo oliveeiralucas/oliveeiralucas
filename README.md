@@ -45,6 +45,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin](https://img.shields.io/badge/-oliveeiralucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveeiralucas/)](https://www.linkedin.com/in/oliveeiralucas/)
-[![Gmail](https://img.shields.io/badge/-oliveeiralucas.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliveeiralucas.dev@gmail.com)](mailto:oliveeiralucas.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-In-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveeiralucas/)](https://www.linkedin.com/in/oliveeiralucas/)
+[![Gmail](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliveeiralucas.dev@gmail.com)](mailto:oliveeiralucas.dev@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/oliveeiralucas?label=follow&style=social)](https://github.com/oliveeiralucas)
